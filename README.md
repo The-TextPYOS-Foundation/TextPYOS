@@ -1,6 +1,5 @@
-# Welcome to the TextPYOS Pre-Release branch!
+# Welcome to the TextPYOS Version Archive!
+This is where old versions of TextPYOS are stored in their raw .py format. Feel free to look, edit, and test them. (Please read the Disclaimer)
 
-This is where you can find Pre-Releases of the TextPYOS code, and suggest changes.
-
-## **DISCLAIMER:**
-**THE VERSIONS UPLOADED TO THE PRE-RELEASE PAGE ARE NOT VERIFIED TO BE FULLY FUNCTIONAL, AND ARE POTENTIALLY UNSTABLE.**
+## **DISCLAIMER**
+**These versions (Primarily, but not only, the existing pre-releases) may be unstable or have bugs.**
