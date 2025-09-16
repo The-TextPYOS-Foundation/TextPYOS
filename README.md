@@ -1,7 +1,7 @@
 # DEVELOPMENT STATUS UPDATE:
-(7/14/2025)
+(9/16/2025)
 
-This github repo is effectively abandoned. I've thought of making a "TextPYOS - Recode" or "TextPYOS2", since the layout of the github and the project it's self is old and confusing. If I choose to do such, I will add a link to the new page. I'm not sure when this will be out, if I decide to re-release it, but I'm not done with TextPYOS!
+I've decided to make a TextPYOS-Revised (W.I.P), but in the meantime I will continue to work on TextPYOS (Now TextPYOS-Original) while I work on the Revised Version.
 
 # TextPYOS
 
