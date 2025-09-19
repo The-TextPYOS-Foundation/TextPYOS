@@ -3,6 +3,10 @@
 
 I've decided to make a TextPYOS-Revised (W.I.P), but in the meantime I will continue to work on TextPYOS (Now TextPYOS-Original) while I work on the Revised Version.
 
+(9/18/2025)
+
+v1.6.0 will be out soon, I'm currently rewriting several things and making it more readable. Might revive the Pre-Release branch.
+
 # TextPYOS
 
 TextPYOS is a simpler version of older text-based operating systems, mostly MS-DOS, Linux, ect...
