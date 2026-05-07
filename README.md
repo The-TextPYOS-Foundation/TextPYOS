@@ -1,30 +1,30 @@
-# Development Status Update:
-
-See "Discussions" tab for further updates.
+# See discussions tab for status updates.
 
 # TextPYOS
 
-TextPYOS is a simpler version of older text-based operating systems, mostly MS-DOS, Linux, ect...
+TextPYOS is a project that is inspired by early command line operating systems (e.x. MS-DOS, Linux, ect) that seeks to give the same experience without being a full-fleged operating system.
 
-TextPYOS is a **full python project**, meaning that other coding languages will not be used (unless it will make it easier to do a task.)
+TextPYOS is built with readability and personalization in mind. It is highly recommended that you edit the code to your liking.
 
-## License
+TextPYOS is a **fully python-based project.** There will be no other programming languages used.
 
-TextPYOS is open-source, under the MIT license.
+## Licensing
 
-For more information, please see the [MIT LICENSE](LICENSE)
+TextPYOS is open-source under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, problems, or suggestions please feel free to reach out to me!
+If you have any questions, problems, or suggestions please feel free to reach out to one of the contacts below.
 
-GitHub: [DarkDevRBLX](https://github.com/DarkDevRBLX)
+DarkDevRBLX (Owner): [DarkDevRBLX](https://github.com/DarkDevRBLX)
 
-Please note that it may take me a while to respond since I develop this in my free time.
+Cubeman2323S (Administrator & Developer): [Cubeman2323S](https://github.com/Cubeman2323S)
+
+It is unlikely that response times will be instant, as TextPYOS is a hobby, and may not be checked up on consistently.
 
 ## Installation
 
-### DISCLAIMER: Doing this via pyinstaller will flag it as a virus. (Unless you changed your protection settings)
+### DISCLAIMER: Using this compiling method may cause windows to flag it as a virus if done incorrectly. This method only works on windows (due to it compiling to a .exe)
 
 BEFORE INSTALLING TextPYOS MAKE SURE:
 
@@ -32,7 +32,7 @@ BEFORE INSTALLING TextPYOS MAKE SURE:
 
 - Run custom installation.
 
-- Make sure that "Add pip to PATH" is CHECKED.
+- Ensure that "Add pip to PATH" is CHECKED.
 
 - Download the latest version of TextPYOS from [TextPYOS](https://github.com/DarkDevRBLX/TextPYOS-Darkdev) (can be found under "Python Source".)
 ### Installing
@@ -46,10 +46,12 @@ To install:
 
 - Execute the .exe
 
+For some people, you can execute the .py file and you may not need to compile it to .exe
+
 ## Collaboration
 
-We are currently not accepting any collaborations, as the project is simply too new to need any. Still feel free to make any changes you wish!
+TextPYOS is not currently looking for collaborators.
 
 ### Thank You!
 
-Thank you for taking interest in TextPYOS! We hope to create a user-friendly experience and to inspire others to take interest.
+Thank you for taking interest in TextPYOS!
